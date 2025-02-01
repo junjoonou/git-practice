@@ -3,14 +3,8 @@ team: Pumas
 manager: Jude
 
 members:
-<<<<<<< HEAD
   - Ezra
   - Carter
   - Finn
   - Juno
-=======
-- Ezra
-- Carter
-- Finn
-- Jooan
->>>>>>> aa62c10703985f29a311221e9a957306762f2188
+  - Pororo
